@@ -153,7 +153,7 @@ a {
 .header_section{
 	width: 100%; 
 	float: left;
-     background-image: url(../images/banner.png);
+     background-image: url(../images/cool-background1.png);
      height: auto;  
      background-size: 100%;
      background-repeat: no-repeat;
@@ -447,7 +447,7 @@ nav.main-menu {
 .about_section {
     width: 100%;
     float: left;
-    background-image: url(../images/about-banner.png);
+    background-image: url(../images/cool-background.png);
     height: auto;
     padding: 110px 0px;
     background-size: 100%;
@@ -796,3 +796,4 @@ nav.navbar.navbar-expand-lg.navbar-light.bg-light {
     opacity: 1;
    }
 
+   
